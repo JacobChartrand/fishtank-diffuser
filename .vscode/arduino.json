@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM1",
+    "programmer": "AVR ISP",
+    "sketch": "Stepper\\Stepper.ino"
+}
